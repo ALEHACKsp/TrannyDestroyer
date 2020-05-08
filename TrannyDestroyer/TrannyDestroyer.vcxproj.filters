@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="SDK">
+      <UniqueIdentifier>{ba52f674-1abf-4965-ae48-39be2dded093}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu">
+      <UniqueIdentifier>{b09349f1-41ed-4b4f-bdfc-c6e937176ad7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu\Controls">
+      <UniqueIdentifier>{3d77b50a-7070-47a7-95f3-2bb63307a2fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu\Styles">
+      <UniqueIdentifier>{8082e0ea-259e-4401-b3e3-b3676c43efc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu\Headers">
+      <UniqueIdentifier>{1636c430-1b05-4fac-bc5f-926c81199e31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks">
+      <UniqueIdentifier>{5c56b322-d8a8-4d9b-966c-801b9c49c676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\ESP">
+      <UniqueIdentifier>{bcd308fe-e929-456b-8161-74c68c46f678}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\Aimbot">
+      <UniqueIdentifier>{1a22b22a-a9fc-4bd4-bf47-2135ff611b8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TD">
+      <UniqueIdentifier>{de283f5d-6d0c-432e-917b-1bbc8b819d45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TD\TD Base">
+      <UniqueIdentifier>{e8b4b256-ed26-4833-a07c-9f9598cfce90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TD\TD Base\Interfaces">
+      <UniqueIdentifier>{32ceb1e5-9b5d-4c7a-acc5-aad6ef91058b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TD\TD Base\Signature">
+      <UniqueIdentifier>{c7cf121d-edc4-44d1-813a-903891aadf72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TD\TD Base\Base">
+      <UniqueIdentifier>{74ce5a25-9bf6-4eaa-82a2-5b223345e398}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TD\TD Base\Hooking">
+      <UniqueIdentifier>{ac88714e-b002-4bd9-87cd-3ae047fbcb59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TD\TD Base\Hooking\VMT">
+      <UniqueIdentifier>{ba880e72-0da4-4f39-b5d4-88a13c4b90d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TD\TD Base\Netvar">
+      <UniqueIdentifier>{b7ddd3eb-a011-4ae8-94d8-3712cf0be640}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TD\TD Base\Draw">
+      <UniqueIdentifier>{ce5fed53-f0a4-4131-aceb-024a6603fa08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\Misc">
+      <UniqueIdentifier>{db18499b-7031-40cc-8131-953072f04b68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\Triggerbot">
+      <UniqueIdentifier>{2bed66af-61d2-4f68-b6f7-46f6b038b557}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\EnginePred">
+      <UniqueIdentifier>{8fd3b80d-01f1-4e4a-96e2-f0885f43f146}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\Antiaim">
+      <UniqueIdentifier>{026ebdd7-b29c-4fb7-9a05-0dce5bf19fe6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\KeyValues">
+      <UniqueIdentifier>{0dd52b04-e0d3-4c26-9692-e0e4df144306}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\MatSystem">
+      <UniqueIdentifier>{e3b375a2-6d3b-465a-b0d5-91b17c48794f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\Resolver">
+      <UniqueIdentifier>{2d0b6572-6642-4af0-bde7-f4e43cc59908}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\Crits">
+      <UniqueIdentifier>{165a1afb-1b46-44d4-9279-75375b29d739}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\MD5">
+      <UniqueIdentifier>{a2f2b5e7-553f-46d0-a0a9-2b5b0314c1da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\Hit">
+      <UniqueIdentifier>{3f6961e7-9a6f-4d2a-9c50-9c608ea1c884}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\Convar">
+      <UniqueIdentifier>{287f7a24-b5c6-4052-b352-11a2b574e8cf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Interfaces.cpp">
+      <Filter>TD\TD Base\Interfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="Base.cpp">
+      <Filter>TD\TD Base\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Netvar.cpp">
+      <Filter>TD\TD Base\Netvar</Filter>
+    </ClCompile>
+    <ClCompile Include="VMT.cpp">
+      <Filter>TD\TD Base\Hooking\VMT</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks.cpp">
+      <Filter>TD\TD Base\Hooking</Filter>
+    </ClCompile>
+    <ClCompile Include="Draw.cpp">
+      <Filter>TD\TD Base\Draw</Filter>
+    </ClCompile>
+    <ClCompile Include="Controls.cpp">
+      <Filter>Menu\Controls</Filter>
+    </ClCompile>
+    <ClCompile Include="Styles.cpp">
+      <Filter>Menu\Styles</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Esp.cpp">
+      <Filter>Hacks\ESP</Filter>
+    </ClCompile>
+    <ClCompile Include="Aimbot.cpp">
+      <Filter>Hacks\Aimbot</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>TD</Filter>
+    </ClCompile>
+    <ClCompile Include="Misc.cpp">
+      <Filter>Hacks\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Triggerbot.cpp">
+      <Filter>Hacks\Triggerbot</Filter>
+    </ClCompile>
+    <ClCompile Include="EnginePred.cpp">
+      <Filter>Hacks\EnginePred</Filter>
+    </ClCompile>
+    <ClCompile Include="Antiaim.cpp">
+      <Filter>Hacks\Antiaim</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyValues.cpp">
+      <Filter>SDK\KeyValues</Filter>
+    </ClCompile>
+    <ClCompile Include="MatSystem.cpp">
+      <Filter>Hacks\MatSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="Resolver.cpp">
+      <Filter>Hacks\Resolver</Filter>
+    </ClCompile>
+    <ClCompile Include="Crits.cpp">
+      <Filter>Hacks\Crits</Filter>
+    </ClCompile>
+    <ClCompile Include="MD5.cpp">
+      <Filter>SDK\MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="Hit.cpp">
+      <Filter>SDK\Hit</Filter>
+    </ClCompile>
+    <ClCompile Include="Convar.cpp">
+      <Filter>SDK\Convar</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Interfaces.h">
+      <Filter>TD\TD Base\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="Signature.h">
+      <Filter>TD\TD Base\Signature</Filter>
+    </ClInclude>
+    <ClInclude Include="Base.h">
+      <Filter>TD\TD Base\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="getvfunc.h">
+      <Filter>TD\TD Base\Hooking</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="dt_recv2.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="dt_common2.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Entities.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Netvar.h">
+      <Filter>TD\TD Base\Netvar</Filter>
+    </ClInclude>
+    <ClInclude Include="Trace.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="VMT.h">
+      <Filter>TD\TD Base\Hooking\VMT</Filter>
+    </ClInclude>
+    <ClInclude Include="studio.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks.h">
+      <Filter>TD\TD Base\Hooking</Filter>
+    </ClInclude>
+    <ClInclude Include="Draw.h">
+      <Filter>TD\TD Base\Draw</Filter>
+    </ClInclude>
+    <ClInclude Include="VGUI.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Draw utils.h">
+      <Filter>TD\TD Base\Draw</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Controls.h">
+      <Filter>Menu\Controls</Filter>
+    </ClInclude>
+    <ClInclude Include="Styles.h">
+      <Filter>Menu\Styles</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyEnum.h">
+      <Filter>Menu\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="RGBA images.h">
+      <Filter>Menu\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Esp.h">
+      <Filter>Hacks\ESP</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot.h">
+      <Filter>Hacks\Aimbot</Filter>
+    </ClInclude>
+    <ClInclude Include="XorString.h">
+      <Filter>TD\TD Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc.h">
+      <Filter>Hacks\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Triggerbot.h">
+      <Filter>Hacks\Triggerbot</Filter>
+    </ClInclude>
+    <ClInclude Include="EnginePred.h">
+      <Filter>Hacks\EnginePred</Filter>
+    </ClInclude>
+    <ClInclude Include="Prediction.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Antiaim.h">
+      <Filter>Hacks\Antiaim</Filter>
+    </ClInclude>
+    <ClInclude Include="classid.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyValues.h">
+      <Filter>SDK\KeyValues</Filter>
+    </ClInclude>
+    <ClInclude Include="Materials.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="MatSystem.h">
+      <Filter>Hacks\MatSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="Resolver.h">
+      <Filter>Hacks\Resolver</Filter>
+    </ClInclude>
+    <ClInclude Include="Crits.h">
+      <Filter>Hacks\Crits</Filter>
+    </ClInclude>
+    <ClInclude Include="MD5.h">
+      <Filter>SDK\MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="Hit.h">
+      <Filter>SDK\Hit</Filter>
+    </ClInclude>
+    <ClInclude Include="Convar.h">
+      <Filter>SDK\Convar</Filter>
+    </ClInclude>
+    <ClInclude Include="ICvar.h">
+      <Filter>SDK\Convar</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientState.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

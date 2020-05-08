@@ -1,0 +1,28 @@
+﻿  Aimbot.cpp
+  Antiaim.cpp
+  Base.cpp
+  Controls.cpp
+  Convar.cpp
+  Crits.cpp
+  dllmain.cpp
+  Draw.cpp
+  EnginePred.cpp
+  Esp.cpp
+  Hit.cpp
+  Hooks.cpp
+  Interfaces.cpp
+  KeyValues.cpp
+  MatSystem.cpp
+  MD5.cpp
+  Menu.cpp
+  Misc.cpp
+  Netvar.cpp
+  Resolver.cpp
+  Generating Code...
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Esp.cpp(211): warning C4715: 'Esp::Chams': not all control paths return a value
+  Compiling...
+  Styles.cpp
+  Triggerbot.cpp
+  VMT.cpp
+  Generating Code...
+  TrannyDestroyer.vcxproj -> C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\Debug\TrannyDestroyer.dll

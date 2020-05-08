@@ -1,0 +1,30 @@
+﻿  Aimbot.cpp
+  Antiaim.cpp
+  Base.cpp
+  Controls.cpp
+  Convar.cpp
+  Crits.cpp
+  dllmain.cpp
+  Draw.cpp
+  EnginePred.cpp
+  Esp.cpp
+  Hit.cpp
+  Hooks.cpp
+  Interfaces.cpp
+  KeyValues.cpp
+  MatSystem.cpp
+  MD5.cpp
+  Menu.cpp
+  Misc.cpp
+  Netvar.cpp
+  Resolver.cpp
+  Compiling...
+  Styles.cpp
+  Triggerbot.cpp
+  VMT.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Esp.cpp(211): warning C4715: 'Esp::Chams': not all control paths return a value
+  All 1497 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TrannyDestroyer.vcxproj -> C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\Release\TrannyDestroyer.dll

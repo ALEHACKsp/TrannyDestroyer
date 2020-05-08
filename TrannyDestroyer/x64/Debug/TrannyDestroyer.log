@@ -1,0 +1,49 @@
+﻿  Aimbot.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Aimbot.cpp(298,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Antiaim.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Antiaim.cpp(60,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Base.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Base.cpp(5,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Controls.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Controls.cpp(576,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Convar.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Convar.cpp(380,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Crits.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Crits.cpp(253,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  dllmain.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\dllmain.cpp(26,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Draw.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Draw.cpp(252,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  EnginePred.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\EnginePred.cpp(42,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Esp.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Esp.cpp(407,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Hit.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Hit.cpp(57,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Hooks.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Hooks.cpp(288,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Interfaces.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Interfaces.cpp(59,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  KeyValues.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\KeyValues.cpp(22,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  MatSystem.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\MatSystem.cpp(92,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  MD5.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\MD5.cpp(269,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Menu.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Menu.cpp(359,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Misc.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Misc.cpp(23,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Netvar.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Netvar.cpp(48,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Resolver.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Resolver.cpp(47,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
+  Compiling...
+  Styles.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Styles.cpp(52,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Triggerbot.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\Triggerbot.cpp(70,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  VMT.cpp
+C:\Users\offic\Desktop\TrannyDestroyerPrivate-master\TrannyDestroyer\VMT.cpp(251,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
